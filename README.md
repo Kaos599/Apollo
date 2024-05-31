@@ -18,7 +18,7 @@ To get started with Apollo, you can either use the setup provided or manually in
 
 ### Using the Provided Setup
 
-1. **Download and run the setup file**: [Setup Link](https://drive.google.com/file/d/1OGNMjyQncfgURM3GD2vQ-G9mQsP95Sjx/view?usp=sharing)
+1. **Download and run the setup file**: [Setup Link](https://github.com/Kaos599/Apollo-Synthetic-Data-Generator-/releases/download/V2.3/Apollo.Setup.V2.3.exe)
 2. **Run the batch file**: This will automatically install all the necessary libraries for you.
 
 ### Manual Installation
