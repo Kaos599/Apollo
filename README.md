@@ -1,3 +1,5 @@
+![](https://github.com/Kaos599/Apollo/assets/115716485/6967b98e-c7e7-43f4-a1ce-c1bf5d9fdde4)
+
 # Apollo - Synthetic Data Generator
 
 Apollo is a Python GUI application designed to simplify the complex process of generating random data based on fixed values. It allows users to generate various types of binary datasets, such as Yes/No type questions, by specifying probabilities. For example, if you want to generate data for "users that use our app daily" with a probability of 0.6, Apollo will ensure that 60% of the generated data reflects daily usage, while 40% does not. Additionally, you can create weighted options where multiple choices can be assigned different probabilities.
