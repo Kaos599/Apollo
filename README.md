@@ -37,7 +37,7 @@ If you prefer to manually install the dependencies and run the script, follow th
 
 Alternatively, you can run the provided batch file to install the necessary libraries:
 ```bash
-install_dependencies.bat
+run.bat
 ```
 ## Libraries Required
 
