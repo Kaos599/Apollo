@@ -52,8 +52,8 @@ import random
 import pandas as pd
 ```
 
-##Usage
+## Usage
 Once installed, simply run the application. The user-friendly GUI will guide you through the process of generating synthetic data based on your specified probabilities and options.
 
-##Thank You
+## Thank You
 Thank you for using Apollo! I hope it simplifies your data generation needs. If you have any questions or feedback, please feel free to reach out.
